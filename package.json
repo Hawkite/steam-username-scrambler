@@ -1,0 +1,16 @@
+{
+  "name": "steam-username-scrambler",
+  "version": "1.0.0",
+  "description": "spams the name change command",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "build-win": "node build.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "prompt": "^1.0.0",
+    "steam-user": "^3.21.7"
+  }
+}
