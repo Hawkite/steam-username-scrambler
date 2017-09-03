@@ -4,8 +4,7 @@
   "description": "spams the name change command",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
-    "build-win": "node build.js"
+    "start": "node index.js"
   },
   "author": "",
   "license": "MIT",
